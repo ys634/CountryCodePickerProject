@@ -455,7 +455,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
                 return R.drawable.flag_bermuda;
             case "bn": //brunei darussalam // custom
                 return R.drawable.flag_brunei;
-            case "bo": //bolivia, plurinational state of
+            case "bo": //Bolivia
                 return R.drawable.flag_bolivia;
             case "br": //brazil
                 return R.drawable.flag_brazil;
@@ -1446,7 +1446,7 @@ public class CCPCountry implements Comparable<CCPCountry> {
         countries.add(new CCPCountry("bl", "590", "Saint Barthélemy", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("bm", "1", "Bermuda", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("bn", "673", "Brunei Darussalam", DEFAULT_FLAG_RES));
-        countries.add(new CCPCountry("bo", "591", "Bolivia, Plurinational State Of", DEFAULT_FLAG_RES));
+        countries.add(new CCPCountry("bo", "591", "Bolivia", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("br", "55", "Brazil", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("bs", "1", "Bahamas", DEFAULT_FLAG_RES));
         countries.add(new CCPCountry("bt", "975", "Bhutan", DEFAULT_FLAG_RES));
